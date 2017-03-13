@@ -18,6 +18,7 @@ namespace ParexasAnxo
         private void btnReiniciar_Click(object sender, EventArgs e)
         {
             iniciarXogo();
+            //Anxo
         }
 
         public MeuFormulario()
